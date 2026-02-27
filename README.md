@@ -4,8 +4,8 @@ Create a Client Management System Using C++ Programming Language, and apply the 
 ## Project Output
 
 ### Main Menu Screen
-![Main Menu Screen](screenshot/menu-screen.png)
+![Main Menu Screen](screenshots/menu-screen.png)
 
 ### Transaction Screen
-![Transaction Screen](screenshot/transaction-screen.png)
+![Transaction Screen](screenshots/transaction-screen.png)
 
